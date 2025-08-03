@@ -1,49 +1,48 @@
-# معرض أعمال سارة عبدالكريم عسيري
+# Portfolio of Sarah Abdulkarim Asiri
 
-مرحبًا! يحتوي هذا المستودع على نماذج من أعمالي الأكاديمية والمهنية التي أنجزتها خلال فترة الدراسة الجامعية والتدريب العملي. تشمل المشاريع مجالات تحليل البيانات، تطوير المواقع، تصميم المخططات، والتوثيق التقني.
-
----
-
-## 📌 المشاريع:
-
-### 1. مشروع التخرج: تحليل البيانات الضخمة لاكتشاف هجمات حجب الخدمة وحقن قواعد البيانات  
-Big Data Analysis for the Detection of Denial of Service and SQL Injection Attacks
-
-يتناول المشروع استخدام تقنيات تحليل البيانات الضخمة لاكتشاف نوعين من الهجمات الإلكترونية الشائعة:  
-- هجمات حجب الخدمة (Denial of Service)  
-- هجمات حقن قواعد البيانات (SQL Injection)
-
-استخدمت في هذا المشروع أدوات برمجية لتحليل البيانات، وبنيت نماذج للكشف عن الهجمات من خلال تحليل السجلات والأنماط، مع تقارير توضح النتائج.
+Welcome! This repository contains samples of my academic and professional work completed during my university studies and practical training. The projects cover areas such as data analysis, web development, flowchart design, and technical documentation.
 
 ---
 
-### 2. تصميم موقع افتراضي
+## 📌 Projects:
 
-مشروع لتصميم موقع ويب تفاعلي باستخدام HTML، CSS، وJavaScript.  
-يحتوي الموقع على صفحات متعددة مثل الصفحة الرئيسية والخدمات والتواصل، مع تركيز على تجربة المستخدم والتصميم المتجاوب.
+### 1. Graduation Project: Big Data Analysis for the Detection of Denial of Service and SQL Injection Attacks
 
-تم كتابة الأكواد بطريقة منظمة وواضحة مع مراعاة الأداء وسهولة التصفح.
+This project focuses on using big data analytics techniques to detect two common types of cyberattacks:  
+- Denial of Service (DoS) attacks  
+- SQL Injection attacks
 
----
-
-### 3. تصميم مخططات التدفق (Flowcharts) لأمانة منطقة عسير
-
-ضمن فترة التدريب العملي في أمانة منطقة عسير، قمت بتصميم عدة مخططات توضح سير العمل الداخلي لبعض الخدمات الإلكترونية.  
-ساهمت هذه المخططات في تسهيل فهم الإجراءات وتقليل التعقيد الإداري داخل الأنظمة المستخدمة.
+I utilized programming tools to analyze data and built models to detect attacks by analyzing logs and patterns, accompanied by detailed reports on the results.
 
 ---
 
-### 4. ملخص التدريب الصيفي - أمانة منطقة عسير
+### 2. Virtual Website Design
 
-شاركت في التدريب الصيفي لدى أمانة منطقة عسير، وشملت المهام ما يلي:
-- الاطلاع على الأنظمة الإدارية الإلكترونية.
-- تحليل متطلبات مشروع داخلي.
-- تصميم واجهات أولية باستخدام أدوات التصميم.
-- إعداد تقارير وتوثيق يومي لسير العمل والمهام المنجزة.
+A project to design an interactive website using HTML, CSS, and JavaScript.  
+The website includes multiple pages such as the homepage, services, and contact page, focusing on user experience and responsive design.
+
+The code was written in an organized and clear manner with attention to performance and ease of navigation.
 
 ---
 
-## ✨ ختــامًا
+### 3. Flowcharts Design for Asir Municipality
 
-هذا المستودع يعكس رحلتي الأكاديمية والعملية، ويعرض نماذج حقيقية من الأعمال التي أنجزتها في مجالات مختلفة.  
-يسعدني اطلاعكم، وأرحب بأي استفسارات أو ملاحظات.
+During my practical training at Asir Municipality, I designed several flowcharts illustrating the internal workflow of some electronic services.  
+These flowcharts helped simplify procedures and reduce administrative complexity within the systems used.
+
+---
+
+### 4. Summer Training Summary – Asir Municipality
+
+During my summer training at Asir Municipality, my tasks included:  
+- Reviewing the administrative electronic systems  
+- Analyzing requirements for an internal project  
+- Designing preliminary user interfaces using design tools  
+- Preparing daily reports and documenting the workflow and completed tasks
+
+---
+
+## ✨ Closing
+
+This repository reflects my academic and practical journey, showcasing real examples of projects I have completed in various fields.  
+I welcome any inquiries or feedback, and I appreciate your time reviewing my work.
